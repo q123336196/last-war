@@ -17,4 +17,4 @@ payload:
   # - 'bi-tracker-global.rivergame.net'
 
   # 若希望游戏客服也走 Last War，取消下行注释
-  # - 'firstfungroup.zendesk.com'
+  - 'firstfungroup.zendesk.com'
