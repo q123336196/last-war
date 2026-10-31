@@ -18,3 +18,5 @@ payload:
 
   # 若希望游戏客服也走 Last War，取消下行注释
    - 'firstfungroup.zendesk.com'
+  - 'image-upload.lastwargame.com'   # 图片上传域名
+  - 'd1z8vor1tvvxbt.cloudfront.net'  # 疑似图片CDN
