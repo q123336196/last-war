@@ -3,7 +3,18 @@ payload:
   - '+.lastwarapp.net'
   - '+.lastwar.com'
   - '+.pacloudflare.com'
-  - '+.listdl.com'
-  - '+.unity3d.com'
-  - '+.appsflyersdk.com'
-  - '+.aihelp.net.cn'
+  - 'dl.listdl.com'
+  - 'glcs.listdl.com'
+  - 'cdp.cloud.unity3d.com'
+  - 'config.uca.cloud.unity3d.com'
+  - 'qaqftd-launches.appsflyersdk.com'
+  - 'qaqftd-inapps.appsflyersdk.com'
+  - 'lastwardev.aihelp.net.cn'
+  - 'lastwar-cdn.akamaized.net'
+  - 'lastwar-fight-report-s3.akamaized.net'
+
+  # 若确认 bi-tracker-global.rivergame.net 是 Last War 埋点，取消下行注释
+  # - 'bi-tracker-global.rivergame.net'
+
+  # 若希望游戏客服也走 Last War，取消下行注释
+  # - 'firstfungroup.zendesk.com'
