@@ -13,5 +13,3 @@ payload:
   - 'lastwar-cdn.akamaized.net'
   - 'lastwar-fight-report-s3.akamaized.net'
   - 'firstfungroup.zendesk.com'
-  - 'image-upload.lastwargame.com'   # 图片上传域名
-  - 'd1z8vor1tvvxbt.cloudfront.net'  # 疑似图片CDN
